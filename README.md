@@ -30,3 +30,9 @@ The data was transferred as an excel sheet
 
 Using power BI i was able to generate the following visualization
 ![Screenshot (13)](https://github.com/AbdelrahmanHemdan17/Marathon-Records-Analysis/assets/161534505/fba9928a-45e4-4016-9cd2-3883fe632aa9)
+
+### Action 
+
+- Better advertisment campaigns were done to enhance the participation of wider age groups
+- safety measures were taken care of so that there's no fear during the race
+- more balancing measures were added to decrease the imbalance between males and females
